@@ -90,7 +90,7 @@ A leitura de temperatura e umidade é feita por sensores conectados ao ESP32, qu
 ---
 
 ## Link do vídeo demonstrando o funcionamento
-[Assista agora](https://youtu.be/frN_Slxvdxo)
+[Assista agora](https://youtu.be/pvMbEKtmw2Q)
 
 ---
 
